@@ -1,0 +1,6 @@
+.DS_STORE
+
+/.deps
+/.states
+/contracts/artifacts
+/contracts/testCoin.sol
